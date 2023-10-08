@@ -8,8 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "tsc && node dist/app.js",
     "dev": "nodemon src/app.ts",
-    "ingest": "node src/scripts/ingest-data2.js",
-    "question": "node src/app.js"
+    "ingest": "node src/scripts/ingest-data.js"    
   },
   "keywords": [],
   "author": "",
