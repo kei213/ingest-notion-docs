@@ -1,0 +1,29 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node dist/app.js",
+    "dev": "nodemon src/app.ts",
+    "ingest": "node src/scripts/ingest-data2.js",
+    "question": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "@pinecone-database/pinecone": "0.0.8",
+    "@types/glob": "^8.1.0",
+    "dotenv": "^16.0.3",
+    "glob": "^9.2.1",
+    "langchain": "^0.0.22",
+    "ts-node": "^10.9.1"
+  }
+}
