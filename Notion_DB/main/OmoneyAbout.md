@@ -8,11 +8,11 @@ The designated helpline number for Orange Money is 123
 
 ## Orange Money Account Limits
 
-| Maximum Account Limit | P 30,000.00 |
-| --- | --- |
-| Single Transaction Limit | P 10,000.00 |
-| Daily Transaction Limit | P 15,000.00 |
-| Monthly Transaction Limit | P 30,000.00 |
+| Maximum Account Limit - P 30,000.00 |
+| Single Transaction Limit - P 10,000.00 |
+| Daily Transaction Limit - P 15,000.00 |
+| Monthly Transaction Limit - P 30,000.00 |
+
 - It's important to note that Orange Money imposes certain account limits to ensure secure and responsible financial transactions.
 - The maximum amount of money a Orange Money account can hold is P30,000, this limit follows regulations set up by the Bank of Botswana to ensure compliance with financial standards.
 - Please be aware that Orange Money also applies a single transaction limit of P 10,000.00, a daily transaction limit of P 15,000.00, and a monthly transaction limit of P 30,000.00, ensuring that your financial activities align with established limits for a secure and well-regulated experience.

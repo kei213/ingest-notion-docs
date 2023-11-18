@@ -67,4 +67,3 @@ Use Orange Money's Bank to Wallet service to transfer money from your bank accou
 
 **For Standard Bank, dial *171*247#. For ABSA, dial *161*234#, or use your bank's Internet Banking service or mobile app.**
 
-source: [https://twitter.com/orangebw/status/1629073737923395588](https://twitter.com/orangebw/status/1629073737923395588)
