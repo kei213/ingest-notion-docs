@@ -5,7 +5,7 @@ import { pinecone } from '../utils/pinecone-client.js';
 import { processMarkDownFiles } from '../utils/helpers.js';
 
 /* Name of directory to retrieve files from. You can change this as required */
-const directoryPath = 'Notion_DB';
+const directoryPath = 'Notion_DB/main';
 var PINECONE_INDEX_NAME = 'mobilemoneybw';
 export const run = async () => {
   try {
