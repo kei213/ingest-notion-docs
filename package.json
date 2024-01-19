@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "tsc && node dist/app.js",
-    "ingest": "node src/scripts/ingest-data.js"
+    "ingest": "node src/scripts/ingest-data.js",
+    "delete": "node src/scripts/delete-vectors.js"
   },
   "keywords": [],
   "author": "",

@@ -35,15 +35,11 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
         if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
     }
 };
-/*exports.__esModule = true;
-exports.pinecone = void 0;
-var pinecone_1 = require("@pinecone-database/pinecone");*/
-import { PineconeClient } from '@pinecone-database/pinecone';
 
+import { PineconeClient } from '@pinecone-database/pinecone';
 import dotenv from 'dotenv';
 dotenv.config();
-console.log(process.env.PINECONE_ENVIRONMENT);
-console.log(process.env.PINECONE_API_KEY)
+
 if (!process.env.PINECONE_ENVIRONMENT || !process.env.PINECONE_API_KEY) {
     throw new Error('Pinecone environment or api key vars missing');
 }
@@ -73,5 +69,5 @@ function initPinecone() {
         });
     });
 }
-/*exports.pinecone = await initPinecone();*/
+
 export const pinecone = await initPinecone();

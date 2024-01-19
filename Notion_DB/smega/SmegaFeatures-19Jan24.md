@@ -51,8 +51,16 @@ Use Smega's Bank to Wallet service to transfer money from your bank account to a
 
 ## Smega Motshelo Account
 
-The Smega Motshelo Account gives users the opportunity to save money as a group. A Motshelo Club must have a minimum of 4 members, and an Administrator is chosen during the setup of the account. Members of the club are able to jointly manage, access, and view transactions on their account, and the withdrawal of funds from the account is approved by the account Administrator and any other two (2) members.
+The Smega Motshelo Account presents an enticing opportunity for group savings. To establish a Motshelo Club, a minimum of four members is required, and an administrator is assigned during the account setup process. 
 
-A monthly account statement is emailed to all members to ensure users can monitor activity on the account, including deposits, withdrawals/payments to individual members, as well as view the account balance.
+Users can set up a Motshelo Club via their mobile phones. To initiate this, log in to your Smega account by dialing *173# and then follow the prompts for the Motshelo Club to arrange the account. Please note that all members of the club must be registered Smega users. As club members, you are already registered Smega users so there's no need to visit any BTC shop or service point in person. The entire Motshelo account setup process can be conveniently completed through your mobile phone. Once the Motshelo club is set up, other users can join the club using their phones.
 
-The Smega Motshelo Account is a convenient, secure, and transparent solution for a group of people to save money. Additionally, the facility does not have a limit on how much an account can hold, offering members a unique opportunity to save larger amounts of money.
+Members of the club are able to jointly manage, access, and view transactions on the account, and the withdrawal of funds from the account is approved by the account Administrator and any other two (2) members. A monthly account statement is emailed to all members to ensure users can monitor activity on the account, including deposits, withdrawals/payments to individual members, as well as view the account balance.
+
+The Smega Motshelo Account provides a convenient, secure, and transparent medium for group savings. Additionally, this facility does not impose any limits on account balances, thus offering members an exclusive opportunity to save larger amounts of money.
+
+Dial *173# to access the Smega Motshelo Account
+
+[http://www.thetswanatimes.co.bw/index.php/92-home/936-btc-smega-motshelo-a-safe-and-convenient-way-to-bank-and-save-together](http://www.thetswanatimes.co.bw/index.php/92-home/936-btc-smega-motshelo-a-safe-and-convenient-way-to-bank-and-save-together)
+
+[https://web.facebook.com/btcBW/photos/start-a-motshelo-club-with-your-smega-account-to-save-convenientlysteps-to-creat/2472875056066209/?_rdc=1&_rdr](https://web.facebook.com/btcBW/photos/start-a-motshelo-club-with-your-smega-account-to-save-convenientlysteps-to-creat/2472875056066209/?_rdc=1&_rdr)
